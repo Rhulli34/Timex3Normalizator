@@ -1,0 +1,98 @@
+{"tokens": ["He", "is", "28", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["My", "son", "is", "5", "years", "old", "and", "goes", "to", "school", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "turned", "30", "last", "week", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "have", "a", "dog", "who", "is", "7", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["At", "the", "age", "of", "50", ",", "he", "retired", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "will", "be", "18", "in", "June", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["His", "grandmother", "is", "92", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["I", "met", "him", "when", "he", "was", "10", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Anna", "is", "just", "25", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["They", "adopted", "a", "child", "aged", "3", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "was", "with", "them", "at", "the", "event", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["For", "her", ",", "it", "was", "over", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "sat", "beside", "him", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["The", "decision", "was", "between", "us", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "gave", "the", "book", "to", "her", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "went", "without", "you", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["They", "are", "here", "for", "us", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "spoke", "about", "him", "yesterday", "."], "labels": [0, 0, 0, 0, 1, 0]}  
+{"tokens": ["Nothing", "was", "done", "by", "them", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "answer", "came", "from", "her", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "car", "is", "five", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "is", "21", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["At", "age", "40", ",", "he", "changed", "careers", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["My", "brother", "is", "13", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["They", "married", "at", "27", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["She", "adopted", "a", "dog", "aged", "2", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "cat", "is", "seven", "years", "old", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "graduated", "at", "the", "age", "of", "22", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Her", "daughter", "turned", "16", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["I", "have", "been", "with", "her", "since", "childhood", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "waited", "for", "her", "outside", "the", "school", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "went", "to", "the", "store", "with", "them", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "spoke", "with", "us", "yesterday", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["I", "brought", "it", "for", "you", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "shared", "the", "news", "among", "them", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "bag", "belongs", "to", "her", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "played", "against", "him", "on", "Sunday", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["She", "will", "see", "us", "next", "week", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Nothing", "happened", "because", "of", "him", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "has", "two", "dogs", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["I", "got", "a", "second", "chance", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["They", "live", "on", "Fifth", "Avenue", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "scored", "ten", "points", "in", "the", "game", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "meeting", "room", "is", "on", "the", "third", "floor", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "bought", "five", "apples", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["It", "was", "done", "in", "a", "minute", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "is", "a", "man", "of", "the", "time", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "have", "been", "there", "for", "ages", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "finished", "just", "in", "time", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "always", "wins", "the", "second", "prize", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "cupboard", "has", "four", "shelves", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "is", "reading", "the", "Times", "newspaper", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "saw", "her", "every", "summer", "in", "France", "."], "labels": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["He", "will", "be", "back", "in", "a", "minute", "."], "labels": [0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["The", "team", "played", "all", "the", "time", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "will", "see", "you", "in", "September", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["He", "was", "born", "on", "March", "1st", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["They", "like", "to", "eat", "lunch", "at", "noon", "."], "labels": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Please", "fall", "in", "line", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["I", "need", "a", "second", "opinion", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["It", "may", "rain", "today", "."], "labels": [0, 0, 0, 1, 0]}
+{"tokens": ["They", "took", "a", "march", "downtown", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Give", "me", "a", "second", "."], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["We", "had", "a", "season", "full", "of", "success", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "mayor", "spoke", "at", "the", "event", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "took", "the", "second", "turn", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["May", "I", "leave", "now", "?"], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["His", "time", "as", "president", "ended", "."], "labels": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "fall", "of", "the", "empire", "was", "inevitable", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Let", "me", "know", "once", "you", "arrive", "."], "labels": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "gave", "a", "time", "of", "ten", "seconds", "for", "the", "run", "."], "labels": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["May", "I", "help", "you", "?"], "labels": [0, 0, 0, 0, 0]}
+{"tokens": ["She", "loves", "the", "colors", "of", "fall", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["In", "spring", ",", "the", "flowers", "bloom", "."], "labels": [0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "was", "born", "in", "the", "fall", "of", "1992", "."], "labels": [0, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["We", "start", "classes", "every", "spring", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["The", "conference", "will", "take", "place", "in", "March", "."], "labels": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Her", "birthday", "is", "in", "May", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["May", "2020", "was", "a", "difficult", "month", "."], "labels": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "met", "her", "last", "March", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["The", "season", "starts", "in", "autumn", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["The", "meeting", "is", "at", "five", "minutes", "to", "ten", "."], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["He", "will", "call", "in", "ten", "minutes", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["See", "you", "next", "fall", "!"], "labels": [0, 0, 0, 1, 0]}
+{"tokens": ["We", "always", "travel", "in", "the", "spring", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["I", "was", "born", "on", "March", "5th", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["May", "is", "the", "fifth", "month", "of", "the", "year", "."], "labels": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Spring", "2023", "was", "very", "rainy", "."], "labels": [1, 1, 0, 0, 0, 0]}
+{"tokens": ["He", "graduated", "in", "March", "."], "labels": [0, 0, 0, 1, 0]}
+{"tokens": ["The", "festival", "takes", "place", "every", "May", "."], "labels": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Her", "favorite", "season", "is", "winter", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["The", "event", "was", "held", "in", "the", "fall", "."], "labels": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["We", "met", "for", "the", "first", "time", "in", "spring", "."], "labels": [0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["The", "test", "will", "be", "in", "a", "minute", "."], "labels": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["We", "are", "meeting", "this", "Friday", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["Her", "appointment", "is", "next", "Monday", "."], "labels": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["He", "will", "leave", "in", "ten", "seconds", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["They", "go", "on", "vacation", "every", "summer", "."], "labels": [0, 0, 0, 0, 1, 2, 0]}

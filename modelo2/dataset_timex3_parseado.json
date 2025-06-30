@@ -1,0 +1,340 @@
+{"expression": "4:15 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T16:15']4:15 PM[/TIMEX3]"}
+{"expression": "9:30 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T09:30']9:30 AM[/TIMEX3]"}
+{"expression": "7:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T19:00']7:00 PM[/TIMEX3]"}
+{"expression": "6:45 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T06:45']6:45 AM[/TIMEX3]"}
+{"expression": "11:20 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T23:20']11:20 PM[/TIMEX3]"}
+{"expression": "2:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T14:30']2:30 PM[/TIMEX3]"}
+{"expression": "12:00 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00']12:00 AM[/TIMEX3]"}
+{"expression": "1:45 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T13:45']1:45 PM[/TIMEX3]"}
+{"expression": "5:15 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T05:15']5:15 AM[/TIMEX3]"}
+{"expression": "10:50 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T22:50']10:50 PM[/TIMEX3]"}
+{"expression": "12:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00']12:00 PM[/TIMEX3]"}
+{"expression": "3:15 pm", "Normalizacion": "[TIMEX3 type='TIME' value='T15:15']3:15 pm[/TIMEX3]"}
+{"expression": "8:45 a.m.", "Normalizacion": "[TIMEX3 type='TIME' value='T08:45']8:45 a.m.[/TIMEX3]"}
+{"expression": "July 10, 1995", "Normalizacion": "[TIMEX3 type='DATE' value='1995-07-10']July 10, 1995[/TIMEX3]"}
+{"expression": "December 5, 2023", "Normalizacion": "[TIMEX3 type='DATE' value='2023-12-05']December 5, 2023[/TIMEX3]"}
+{"expression": "January 1st", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-01-01']January 1st[/TIMEX3]"}
+{"expression": "April 15, 2024", "Normalizacion": "[TIMEX3 type='DATE' value='2024-04-15']April 15, 2024[/TIMEX3]"}
+{"expression": "September 22nd", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-09-22']September 22nd[/TIMEX3]"}
+{"expression": "October 31, 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-10-31']October 31, 2020[/TIMEX3]"}
+{"expression": "February 29, 2016", "Normalizacion": "[TIMEX3 type='DATE' value='2016-02-29']February 29, 2016[/TIMEX3]"}
+{"expression": "April 15, 2024", "Normalizacion": "[TIMEX3 type='DATE' value='2024-04-15']April 15, 2024[/TIMEX3]"}
+{"expression": "September 22nd", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-09-22']September 22nd[/TIMEX3]"}
+{"expression": "October 31, 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-10-31']October 31, 2020[/TIMEX3]"}
+{"expression": "February 29, 2016", "Normalizacion": "[TIMEX3 type='DATE' value='2016-02-29']February 29, 2016[/TIMEX3]"}
+{"expression": "December 25, 2022", "Normalizacion": "[TIMEX3 type='DATE' value='2022-12-25']December 25, 2022[/TIMEX3]"}
+{"expression": "July 4, 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-07-04']July 4, 2021[/TIMEX3]"}
+{"expression": "May 1st", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-05-01']May 1st[/TIMEX3]"}
+{"expression": "August 12, 2018", "Normalizacion": "[TIMEX3 type='DATE' value='2018-08-12']August 12, 2018[/TIMEX3]"}
+{"expression": "March 3, 2023", "Normalizacion": "[TIMEX3 type='DATE' value='2023-03-03']March 3, 2023[/TIMEX3]"}
+{"expression": "November 11, 2001", "Normalizacion": "[TIMEX3 type='DATE' value='2001-11-11']November 11, 2001[/TIMEX3]"}
+{"expression": "March 3rd", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-03-03']March 3rd[/TIMEX3]"}
+{"expression": "August 15th, 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-08-15']August 15th, 2021[/TIMEX3]"}
+{"expression": "May 5th", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-05-05']May 5th[/TIMEX3]"}
+{"expression": "November 11, 2000", "Normalizacion": "[TIMEX3 type='DATE' value='2000-11-11']November 11, 2000[/TIMEX3]"}
+{"expression": "June 1st, 2010", "Normalizacion": "[TIMEX3 type='DATE' value='2010-06-01']June 1st, 2010[/TIMEX3]"}
+{"expression": "March 17", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-03-17']March 17[/TIMEX3]"}
+{"expression": "6:00 AM every day", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']6:00 AM every day[/TIMEX3]"}
+{"expression": "5:30 AM every Monday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']5:30 AM every Monday[/TIMEX3]"}
+{"expression": "6:00 AM every morning", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']6:00 AM every morning[/TIMEX3]"}
+{"expression": "8:00 PM daily", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']8:00 PM daily[/TIMEX3]"}
+{"expression": "9:00 AM every Wednesday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']9:00 AM every Wednesday[/TIMEX3]"}
+{"expression": "two and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT2H30M']two and a half hours[/TIMEX3]"}
+{"expression": "three hours and 15 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT3H15M']three hours and 15 minutes[/TIMEX3]"}
+{"expression": "45 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT45M' approx='true']about 45 minutes[/TIMEX3]"}
+{"expression": "two days", "Normalizacion": "[TIMEX3 type='DURATION' value='P2D']two days[/TIMEX3]"}
+{"expression": "seven and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT7H30M']seven and a half hours[/TIMEX3]"}
+{"expression": "one hour", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H']one hour[/TIMEX3]"}
+{"expression": "30 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT30M']30 minutes[/TIMEX3]"}
+{"expression": "one and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H30M']one and a half hours[/TIMEX3]"}
+{"expression": "90 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H30M']90 minutes[/TIMEX3]"}
+{"expression": "four days", "Normalizacion": "[TIMEX3 type='DURATION' value='P4D']four days[/TIMEX3]"}
+{"expression": "three weeks", "Normalizacion": "[TIMEX3 type='DURATION' value='P3W']three weeks[/TIMEX3]"}
+{"expression": "3 hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT3H']3 hours[/TIMEX3]"}
+{"expression": "1 week, 2 days", "Normalizacion": "[TIMEX3 type='DURATION' value='P1W2D']1 week, 2 days[/TIMEX3]"}
+{"expression": "30 minutes every morning", "Normalizacion": "[TIMEX3 type='SET' value='PT30M' freq='1D']30 minutes every morning[/TIMEX3]"}
+{"expression": "one hour every night", "Normalizacion": "[TIMEX3 type='SET' value='PT1H' freq='1D']one hour every night[/TIMEX3]"}
+{"expression": "20 minutes each morning", "Normalizacion": "[TIMEX3 type='SET' value='PT20M' freq='1D']20 minutes each morning[/TIMEX3]"}
+{"expression": "an hour every Saturday", "Normalizacion": "[TIMEX3 type='SET' value='PT1H' freq='1W']an hour every Saturday[/TIMEX3]"}
+{"expression": "two hours every weekend", "Normalizacion": "[TIMEX3 type='SET' value='PT2H' freq='1W']two hours every weekend[/TIMEX3]"}
+{"expression": "In three days", "Normalizacion": "[TIMEX3 type='DURATION' value='P3D']in three days[/TIMEX3]"}
+{"expression": "in two months", "Normalizacion": "[TIMEX3 type='DURATION' value='P2M']in two months[/TIMEX3]"}
+{"expression": "in about a week", "Normalizacion": "[TIMEX3 type='DURATION' value='P1W' approx='true']in about a week[/TIMEX3]"}
+{"expression": "In six months", "Normalizacion": "[TIMEX3 type='DURATION' value='P6M']in six months[/TIMEX3]"}
+{"expression": "in four years", "Normalizacion": "[TIMEX3 type='DURATION' value='P4Y']in four years[/TIMEX3]"}
+{"expression": "in about 20 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT20M' approx='true']in about 20 minutes[/TIMEX3]"}
+{"expression": "in half an hour", "Normalizacion": "[TIMEX3 type='DURATION' value='PT30M']in half an hour[/TIMEX3]"}
+{"expression": "In five minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT5M']in five minutes[/TIMEX3]"}
+{"expression": "in approximately 45 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT45M' approx='true']in approximately 45 minutes[/TIMEX3]"}
+{"expression": "in an hour", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H']in an hour[/TIMEX3]"}
+{"expression": "for two weeks", "Normalizacion": "[TIMEX3 type='DURATION' value='P2W']for two weeks[/TIMEX3]"}
+{"expression": "for three years", "Normalizacion": "[TIMEX3 type='DURATION' value='P3Y']for three years[/TIMEX3]"}
+{"expression": "for five days", "Normalizacion": "[TIMEX3 type='DURATION' value='P5D']for five days[/TIMEX3]"}
+{"expression": "for two months", "Normalizacion": "[TIMEX3 type='DURATION' value='P2M']for two months[/TIMEX3]"}
+{"expression": "for three hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT3H']for three hours[/TIMEX3]"}
+{"expression": "every Monday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']every Monday[/TIMEX3]"}
+{"expression": "every morning", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']every morning[/TIMEX3]"}
+{"expression": "every two years", "Normalizacion": "[TIMEX3 type='SET' value='P2Y' freq='1']every two years[/TIMEX3]"}
+{"expression": "every weekend", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']every weekend[/TIMEX3]"}
+{"expression": "every summer", "Normalizacion": "[TIMEX3 type='SET' value='P1Y' freq='1Y']every summer[/TIMEX3]"}
+{"expression": "for one month", "Normalizacion": "[TIMEX3 type='DURATION' value='P1M']for one month[/TIMEX3]"}
+{"expression": "for one year", "Normalizacion": "[TIMEX3 type='DURATION' value='P1Y']for one year[/TIMEX3]"}
+{"expression": "for six hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT6H']for six hours[/TIMEX3]"}
+{"expression": "for fifteen minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT15M']for fifteen minutes[/TIMEX3]"}
+{"expression": "every Tuesday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']every Tuesday[/TIMEX3]"}
+{"expression": "every evening", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']every evening[/TIMEX3]"}
+{"expression": "every day", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']every day[/TIMEX3]"}
+{"expression": "every hour", "Normalizacion": "[TIMEX3 type='SET' value='PT1H' freq='1H']every hour[/TIMEX3]"}
+{"expression": "every spring", "Normalizacion": "[TIMEX3 type='SET' value='P1Y' freq='1Y']every spring[/TIMEX3]"}
+{"expression": "every Friday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']every Friday[/TIMEX3]"}
+{"expression": "This Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']This Friday[/TIMEX3]"}
+{"expression": "this Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']this Friday[/TIMEX3]"}
+{"expression": "This Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']This Friday[/TIMEX3]"}
+{"expression": "this Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']this Friday[/TIMEX3]"}
+{"expression": "Next Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']Next Friday[/TIMEX3]"}
+{"expression": "next friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']next friday[/TIMEX3]"}
+{"expression": "Last Friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']Last Friday[/TIMEX3]"}
+{"expression": "last friday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-FRI']last friday[/TIMEX3]"}
+{"expression": "This Monday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-MON']This Monday[/TIMEX3]"}
+{"expression": "this monday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-MON']this monday[/TIMEX3]"}
+{"expression": "around noon", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00' approx='true']around noon[/TIMEX3]"}
+{"expression": "Around noon", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00' approx='true']Around noon[/TIMEX3]"}
+{"expression": "a while", "Normalizacion": "[TIMEX3 type='DURATION' value='PTXX' approx='true']a while[/TIMEX3]"}
+{"expression": "A while", "Normalizacion": "[TIMEX3 type='DURATION' value='PTXX' approx='true']A while[/TIMEX3]"}
+{"expression": "for a while", "Normalizacion": "[TIMEX3 type='DURATION' value='PTXX' approx='true']for a while[/TIMEX3]"}
+{"expression": "on weekends", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']on weekends[/TIMEX3]"}
+{"expression": "On weekends", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']on weekends[/TIMEX3]"}
+{"expression": "Just before January 1 , 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-01-01' mod='BEFORE']Just before January 1, 2020[/TIMEX3]"}
+{"expression": "just after December 25 , 2019", "Normalizacion": "[TIMEX3 type='DATE' value='2019-12-25' mod='AFTER']just after December 25, 2019[/TIMEX3]"}
+{"expression": "exactly on March 15 , 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-03-15']exactly on March 15, 2021[/TIMEX3]"}
+{"expression": "Right after November 11 , 2018", "Normalizacion": "[TIMEX3 type='DATE' value='2018-11-11' mod='AFTER']Right after November 11, 2018[/TIMEX3]"}
+{"expression": "just before July 4 , 2022", "Normalizacion": "[TIMEX3 type='DATE' value='2022-07-04' mod='BEFORE']just before July 4, 2022[/TIMEX3]"}
+{"expression": "Just after February 14, 2023", "Normalizacion": "[TIMEX3 type='DATE' value='2023-02-14' mod='AFTER']Just after February 14, 2023[/TIMEX3]"}
+{"expression": "just before October 31, 2017", "Normalizacion": "[TIMEX3 type='DATE' value='2017-10-31' mod='BEFORE']just before October 31, 2017[/TIMEX3]"}
+{"expression": "Exactly on December 31, 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-12-31']Exactly on December 31, 2020[/TIMEX3]"}
+{"expression": "Immediately after August 15, 2019", "Normalizacion": "[TIMEX3 type='DATE' value='2019-08-15' mod='AFTER']Immediately after August 15, 2019[/TIMEX3]"}
+{"expression": "Right before May 1, 2018", "Normalizacion": "[TIMEX3 type='DATE' value='2018-05-01' mod='BEFORE']Right before May 1, 2018[/TIMEX3]"}
+{"expression": "exactly on September 9, 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-09-09']exactly on September 9, 2021[/TIMEX3]"}
+{"expression": "Just after April 1, 2016", "Normalizacion": "[TIMEX3 type='DATE' value='2016-04-01' mod='AFTER']Just after April 1, 2016[/TIMEX3]"}
+{"expression": "just before November 22, 2017", "Normalizacion": "[TIMEX3 type='DATE' value='2017-11-22' mod='BEFORE']just before November 22, 2017[/TIMEX3]"}
+{"expression": "exactly on October 31 , 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-10-31']exactly on October 31, 2020[/TIMEX3]"}
+{"expression": "Immediately before January 20 , 2019", "Normalizacion": "[TIMEX3 type='DATE' value='2019-01-20' mod='BEFORE']Immediately before January 20, 2019[/TIMEX3]"}
+{"expression": "just after May 10 , 2023", "Normalizacion": "[TIMEX3 type='DATE' value='2023-05-10' mod='AFTER']just after May 10, 2023[/TIMEX3]"}
+{"expression": "exactly on December 5 , 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-12-05']exactly on December 5, 2021[/TIMEX3]"}
+{"expression": "nearly on September 30 , 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-09-30' approx='true']nearly on September 30, 2020[/TIMEX3]"}
+{"expression": "Exactly at midnight", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00']Exactly at midnight[/TIMEX3]"}
+{"expression": "just after dawn", "Normalizacion": "[TIMEX3 type='TIME' value='DAWN' mod='AFTER']just after dawn[/TIMEX3]"}
+{"expression": "exactly at 6 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T18:00']exactly at 6 PM[/TIMEX3]"}
+{"expression": "Immediately at sunrise", "Normalizacion": "[TIMEX3 type='TIME' value='SUNRISE' mod='AFTER']Immediately at sunrise[/TIMEX3]"}
+{"expression": "just before noon", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00' mod='BEFORE']just before noon[/TIMEX3]"}
+{"expression": "exactly at dusk", "Normalizacion": "[TIMEX3 type='TIME' value='DUSK']exactly at dusk[/TIMEX3]"}
+{"expression": "Right after midnight", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00' mod='AFTER']Right after midnight[/TIMEX3]"}
+{"expression": "around 1 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T13:00' approx='true']around 1 PM[/TIMEX3]"}
+{"expression": "exactly at 10 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T10:00']exactly at 10 AM[/TIMEX3]"}
+{"expression": "precisely at midnight", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00']precisely at midnight[/TIMEX3]"}
+{"expression": "Nearly three hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT3H' approx='true']Nearly three hours[/TIMEX3]"}
+{"expression": "exactly two and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT2H30M']exactly two and a half hours[/TIMEX3]"}
+{"expression": "for roughly four hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT4H' approx='true']roughly four hours[/TIMEX3]"}
+{"expression": "Approximately one hour", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H' approx='true']Approximately one hour[/TIMEX3]"}
+{"expression": "almost two hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT2H' approx='true']almost two hours[/TIMEX3]"}
+{"expression": "for nearly half an hour", "Normalizacion": "[TIMEX3 type='DURATION' value='PT30M' approx='true']nearly half an hour[/TIMEX3]"}
+{"expression": "Exactly ninety minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT90M']Exactly ninety minutes[/TIMEX3]"}
+{"expression": "approximately one and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1H30M' approx='true']approximately one and a half hours[/TIMEX3]"}
+{"expression": "in almost three days", "Normalizacion": "[TIMEX3 type='DURATION' value='P3D' approx='true']in almost three days[/TIMEX3]"}
+{"expression": "precisely four and a half hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT4H30M']precisely four and a half hours[/TIMEX3]"}
+{"expression": "Almost every summer", "Normalizacion": "[TIMEX3 type='SET' value='P1Y' approx='true']Almost every summer[/TIMEX3]"}
+{"expression": "almost every weekend", "Normalizacion": "[TIMEX3 type='SET' value='P1W' approx='true']almost every weekend[/TIMEX3]"}
+{"expression": "exactly on every holiday", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-HOLIDAY']exactly on every holiday[/TIMEX3]"}
+{"expression": "Precisely every Monday", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-WXX-MON']Precisely every Monday[/TIMEX3]"}
+{"expression": "just after every first Friday", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-WXX-FRI' mod='AFTER']just after every first Friday[/TIMEX3]"}
+{"expression": "exactly on every Sunday", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-WXX-SUN']exactly on every Sunday[/TIMEX3]"}
+{"expression": "Almost every winter", "Normalizacion": "[TIMEX3 type='SET' value='P1Y' approx='true']Almost every winter[/TIMEX3]"}
+{"expression": "nearly every Christmas", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-CHRISTMAS' approx='true']nearly every Christmas[/TIMEX3]"}
+{"expression": "exactly every other Friday", "Normalizacion": "[TIMEX3 type='SET' value='P2W']exactly every other Friday[/TIMEX3]"}
+{"expression": "precisely every fortnight", "Normalizacion": "[TIMEX3 type='SET' value='P2W']precisely every fortnight[/TIMEX3]"}
+{"expression": "from June 5 to June 12 , 2021", "Normalizacion": "[TIMEX3 type='DATE' value='2021-06-05/2021-06-12']from June 5 to June 12, 2021[/TIMEX3]"}
+{"expression": "From March 1 to March 10 , 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-03-01/2020-03-10']From March 1 to March 10, 2020[/TIMEX3]"}
+{"expression": "from September 15 to September 18 , 2019", "Normalizacion": "[TIMEX3 type='DATE' value='2019-09-15/2019-09-18']from September 15 to September 18, 2019[/TIMEX3]"}
+{"expression": "from December 20 to December 27 , 2022", "Normalizacion": "[TIMEX3 type='DATE' value='2022-12-20/2022-12-27']from December 20 to December 27, 2022[/TIMEX3]"}
+{"expression": "from May 3 to May 8 , 2018", "Normalizacion": "[TIMEX3 type='DATE' value='2018-05-03/2018-05-08']from May 3 to May 8, 2018[/TIMEX3]"}
+{"expression": "from July 10 to July 17 ,", "Normalizacion": "[TIMEX3 type='DATE' value='2021-07-10/2021-07-17']from July 10 to July 17, 2021[/TIMEX3]"}
+{"expression": "from April 2 to April 5 , 2022", "Normalizacion": "[TIMEX3 type='DATE' value='2022-04-02/2022-04-05']from April 2 to April 5, 2022[/TIMEX3]"}
+{"expression": "from August 12 to August 19 , 2017", "Normalizacion": "[TIMEX3 type='DATE' value='2017-08-12/2017-08-19']from August 12 to August 19, 2017[/TIMEX3]"}
+{"expression": "from November 3 to November 7 , 2019", "Normalizacion": "[TIMEX3 type='DATE' value='2019-11-03/2019-11-07']from November 3 to November 7, 2019[/TIMEX3]"}
+{"expression": "from February 14 to February 20 , 2020", "Normalizacion": "[TIMEX3 type='DATE' value='2020-02-14/2020-02-20']from February 14 to February 20, 2020[/TIMEX3]"}
+{"expression": "from 9:00 AM to 5:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T09:00/T17:00']from 9:00 AM to 5:00 PM[/TIMEX3]"}
+{"expression": "From 8:00 AM to 4:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T08:00/T16:00']From 8:00 AM to 4:00 PM[/TIMEX3]"}
+{"expression": "from 10:00 AM to 12:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T10:00/T12:00']from 10:00 AM to 12:00 PM[/TIMEX3]"}
+{"expression": "from 7:30 AM to 9:30 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T07:30/T09:30']from 7:30 AM to 9:30 AM[/TIMEX3]"}
+{"expression": "from 2:00 PM to 6:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T14:00/T18:00']from 2:00 PM to 6:00 PM[/TIMEX3]"}
+{"expression": "Between 11:00 AM and 3:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T11:00/T15:00']Between 11:00 AM and 3:00 PM[/TIMEX3]"}
+{"expression": "from 6:00 AM to 2:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T06:00/T14:00']from 6:00 AM to 2:00 PM[/TIMEX3]"}
+{"expression": "from 4:00 PM to 8:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T16:00/T20:00']from 4:00 PM to 8:00 PM[/TIMEX3]"}
+{"expression": "From midnight to 6:00 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00/T06:00']From midnight to 6:00 AM[/TIMEX3]"}
+{"expression": "from 1:00 PM to 5:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T13:00/T17:00']from 1:00 PM to 5:00 PM[/TIMEX3]"}
+{"expression": "two weeks July 1 to July 15", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P14D\"]two weeks[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-07-01/XXXX-07-15\"]from July 1 to July 15[/TIMEX3]"}
+{"expression": "one week August 5 to August 12", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P7D\"]one week[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-08-05/XXXX-08-12\"]from August 5 to August 12[/TIMEX3]"}
+{"expression": "three days September 10 to September 12", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P3D\"]three days[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-09-10/XXXX-09-12\"]from September 10 to September 12[/TIMEX3]"}
+{"expression": "four days October 2 to October 5", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P4D\"]four days long[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-10-02/XXXX-10-05\"]from October 2 to October 5[/TIMEX3]"}
+{"expression": "five days November 15 to November 19", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P5D\"]five days[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-11-15/XXXX-11-19\"]from November 15 to November 19[/TIMEX3]"}
+{"expression": "one week December 1 to December 8", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P7D\"]one week[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-12-01/XXXX-12-08\"]from December 1 to December 8[/TIMEX3]"}
+{"expression": "ten-day journey January 10 to January 20", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P10D\"]ten-day journey[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-01-10/XXXX-01-20\"]from January 10 to January 20[/TIMEX3]"}
+{"expression": "month February 1 to February 28", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P1M\"]a month[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-02-01/XXXX-02-28\"]from February 1 to February 28[/TIMEX3]"}
+{"expression": "three weeks March 5 to March 26", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P21D\"]three weeks[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-03-05/XXXX-03-26\"]from March 5 to March 26[/TIMEX3]"}
+{"expression": "two weeks April 10 to April 24", "Normalizacion": "[TIMEX3 type=\"DURATION\" value=\"P14D\"]two weeks[/TIMEX3]\n[TIMEX3 type=\"DATE\" value=\"XXXX-04-10/XXXX-04-24\"]from April 10 to April 24[/TIMEX3]"}
+{"expression": "every Monday and Wednesday at 8:00 AM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-MON/WED T08:00']every Monday and Wednesday at 8:00 AM[/TIMEX3]"}
+{"expression": "Every Tuesday and Thursday at 7:00 AM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-TUE/THU T07:00']Every Tuesday and Thursday at 7:00 AM[/TIMEX3]"}
+{"expression": "every Friday at 3:00 PM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-FRI T15:00']every Friday at 3:00 PM[/TIMEX3]"}
+{"expression": "every Saturday at 9:00 AM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-SAT T09:00']every Saturday at 9:00 AM[/TIMEX3]"}
+{"expression": "every Wednesday and Friday at 6:00 PM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-WED/FRI T18:00']every Wednesday and Friday at 6:00 PM[/TIMEX3]"}
+{"expression": "every Monday at 10:00 AM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-MON T10:00']every Monday at 10:00 AM[/TIMEX3]"}
+{"expression": "every Thursday at 5:00 PM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-THU T17:00']every Thursday at 5:00 PM[/TIMEX3]"}
+{"expression": "every Saturday and Sunday at 4:00 PM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-SAT/SUN T16:00']every Saturday and Sunday at 4:00 PM[/TIMEX3]"}
+{"expression": "every Tuesday at 11:00 AM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-TUE T11:00']every Tuesday at 11:00 AM[/TIMEX3]"}
+{"expression": "every Friday and Saturday at 2:00 PM", "Normalizacion": "[TIMEX3 type='SET' value='XXXX-FRI/SAT T14:00']every Friday and Saturday at 2:00 PM[/TIMEX3]"}
+{"expression": "Recently", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']Recently[/TIMEX3]"}
+{"expression": "soon", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']soon[/TIMEX3]"}
+{"expression": "already", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']already[/TIMEX3]"}
+{"expression": "Now", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']Now[/TIMEX3]"}
+{"expression": "currently", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']currently[/TIMEX3]"}
+{"expression": "Later", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']Later[/TIMEX3]"}
+{"expression": "Eventually", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']Eventually[/TIMEX3]"}
+{"expression": "immediately", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']immediately[/TIMEX3]"}
+{"expression": "Soon enough", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']Soon enough[/TIMEX3]"}
+{"expression": "At last", "Normalizacion": "[TIMEX3 type='TIME' value='TUNK' mod='AMBIGUOUS']At last[/TIMEX3]"}
+{"expression": "In the fall", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:fall']in the fall[/TIMEX3]"}
+{"expression": "During winter", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:winter']during winter[/TIMEX3]"}
+{"expression": "in the spring", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:spring']in the spring[/TIMEX3]"}
+{"expression": "Over the summer", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:summer']over the summer[/TIMEX3]"}
+{"expression": "in autumn", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:fall']in autumn[/TIMEX3]"}
+{"expression": "Last winter", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:winter' mod='LAST']last winter[/TIMEX3]"}
+{"expression": "the spring", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:spring']the spring[/TIMEX3]"}
+{"expression": "in fall", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:fall']in fall[/TIMEX3]"}
+{"expression": "This summer", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:summer' mod='THIS']this summer[/TIMEX3]"}
+{"expression": "tomorrow", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY+1']tomorrow[/TIMEX3]"}
+{"expression": "yesterday", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY-1']yesterday[/TIMEX3]"}
+{"expression": "The day after tomorrow", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY+2']day after tomorrow[/TIMEX3]"}
+{"expression": "Later today", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY' mod='LATE']Later today[/TIMEX3]"}
+{"expression": "Tomorrow", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY+1']Tomorrow[/TIMEX3]"}
+{"expression": "day before yesterday", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY-2']the day before yesterday[/TIMEX3]"}
+{"expression": "later today", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY' mod='LATE']later today[/TIMEX3]"}
+{"expression": "the day after tomorrow", "Normalizacion": "[TIMEX3 type='DATE' value='TODAY+2']the day after tomorrow[/TIMEX3]"}
+{"expression": "In a jiffy", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']In a jiffy[/TIMEX3]"}
+{"expression": "in no time", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in no time[/TIMEX3]"}
+{"expression": "Before you know it", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']Before you know it[/TIMEX3]"}
+{"expression": "in the blink of an eye", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in the blink of an eye[/TIMEX3]"}
+{"expression": "in a flash", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in a flash[/TIMEX3]"}
+{"expression": "in a heartbeat", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in a heartbeat[/TIMEX3]"}
+{"expression": "in no time flat", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in no time flat[/TIMEX3]"}
+{"expression": "in a snap", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']in a snap[/TIMEX3]"}
+{"expression": "before you even blinked", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']before you even blinked[/TIMEX3]"}
+{"expression": "In a heartbeat", "Normalizacion": "[TIMEX3 type='DURATION' value='PTUNK' mod='IDIOMATIC']In a heartbeat[/TIMEX3]"}
+{"expression": "in summer", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:summer\"]in summer[/TIMEX3]"}
+{"expression": "in spring", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:spring\"]in spring[/TIMEX3]"}
+{"expression": "Winter", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:winter\"]Winter[/TIMEX3]"}
+{"expression": "winter months", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:winter\"]winter months[/TIMEX3]"}
+{"expression": "Autumn", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:autumn\"]Autumn[/TIMEX3]"}
+{"expression": "Summer", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:summer\"]Summer[/TIMEX3]"}
+{"expression": "fall", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:autumn\"]in fall[/TIMEX3]"}
+{"expression": "late spring", "Normalizacion": "[TIMEX3 type=\"DATE\" value=\"SEASON:spring\" mod=\"LATE\"]late spring[/TIMEX3]"}
+{"expression": "October 31st", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-10-31']October 31st[/TIMEX3]"}
+{"expression": "November", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-11']November[/TIMEX3]"}
+{"expression": "a month", "Normalizacion": "[TIMEX3 type='DURATION' value='P1M']a month[/TIMEX3]"}
+{"expression": "December 31st", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-12-31']December 31st[/TIMEX3]"}
+{"expression": "February 14th", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-02-14']February 14th[/TIMEX3]"}
+{"expression": "July 4th", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-07-04']July 4th[/TIMEX3]"}
+{"expression": "December", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-12']December[/TIMEX3]"}
+{"expression": "dawn", "Normalizacion": "[TIMEX3 type='TIME' value='TDAWN']dawn[/TIMEX3]"}
+{"expression": "sunrise", "Normalizacion": "[TIMEX3 type='TIME' value='TSUNRISE']sunrise[/TIMEX3]"}
+{"expression": "night", "Normalizacion": "[TIMEX3 type='TIME' value='T18:00']night[/TIMEX3]"}
+{"expression": "noon", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00']noon[/TIMEX3]"}
+{"expression": "tonight", "Normalizacion": "[TIMEX3 type='TIME' value='T18:00']tonight[/TIMEX3]"}
+{"expression": "a decade", "Normalizacion": "[TIMEX3 type='DURATION' value='P10Y']a decade[/TIMEX3]"}
+{"expression": "2050", "Normalizacion": "[TIMEX3 type='DATE' value='2050']2050[/TIMEX3]"}
+{"expression": "8:00 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T08:00']8:00 AM[/TIMEX3]"}
+{"expression": "two hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT2H']two hours[/TIMEX3]"}
+{"expression": "30 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT30M']30 minutes[/TIMEX3]"}
+{"expression": "three days", "Normalizacion": "[TIMEX3 type='DURATION' value='P3D']three days[/TIMEX3]"}
+{"expression": "four hours", "Normalizacion": "[TIMEX3 type='DURATION' value='PT4H']four hours[/TIMEX3]"}
+{"expression": "every hour", "Normalizacion": "[TIMEX3 type='SET' value='PT1H' freq='1H']every hour[/TIMEX3]"}
+{"expression": "midnight", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00']midnight[/TIMEX3]"}
+{"expression": "twice a week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice a week[/TIMEX3]"}
+{"expression": "two days a week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']two days a week[/TIMEX3]"}
+{"expression": "twice weekly", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice weekly[/TIMEX3]"}
+{"expression": "twice per week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice per week[/TIMEX3]"}
+{"expression": "two times a week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']two times a week[/TIMEX3]"}
+{"expression": "two times per week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']two times per week[/TIMEX3]"}
+{"expression": "twice each week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice each week[/TIMEX3]"}
+{"expression": "two days per week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']two days per week[/TIMEX3]"}
+{"expression": "twice a week", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice a week[/TIMEX3]"}
+{"expression": "twice weekly", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='2W']twice weekly[/TIMEX3]"}
+{"expression": "this morning", "Normalizacion": "[TIMEX3 type='TIME' value='T08:00']this morning[/TIMEX3]"}
+{"expression": "noon", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00']noon[/TIMEX3]"}
+{"expression": "midnight", "Normalizacion": "[TIMEX3 type='TIME' value='T00:00']midnight[/TIMEX3]"}
+{"expression": "this afternoon", "Normalizacion": "[TIMEX3 type='TIME' value='T15:00']this afternoon[/TIMEX3]"}
+{"expression": "dusk", "Normalizacion": "[TIMEX3 type='TIME' value='T19:00']dusk[/TIMEX3]"}
+{"expression": "July 4, 2025", "Normalizacion": "[TIMEX3 type='DATE' value='2025-07-04']July 4, 2025[/TIMEX3]"}
+{"expression": "Christmas 2023", "Normalizacion": "[TIMEX3 type='DATE' value='2023-12-25']Christmas 2023[/TIMEX3]"}
+{"expression": "next Monday", "Normalizacion": "[TIMEX3 type='DATE' value='XXXX-WXX-MON']next Monday[/TIMEX3]"}
+{"expression": "February 29, 2024", "Normalizacion": "[TIMEX3 type='DATE' value='2024-02-29']February 29, 2024[/TIMEX3]"}
+{"expression": "three days", "Normalizacion": "[TIMEX3 type='DURATION' value='P3D']three days[/TIMEX3]"}
+{"expression": "one week", "Normalizacion": "[TIMEX3 type='DURATION' value='P1W']one week[/TIMEX3]"}
+{"expression": "15 minutes", "Normalizacion": "[TIMEX3 type='DURATION' value='PT15M']15 minutes[/TIMEX3]"}
+{"expression": "a minute", "Normalizacion": "[TIMEX3 type='DURATION' value='PT1M']a minute[/TIMEX3]"}
+{"expression": "half a day", "Normalizacion": "[TIMEX3 type='DURATION' value='PT12H']half a day[/TIMEX3]"}
+{"expression": "a century", "Normalizacion": "[TIMEX3 type='DURATION' value='P100Y']a century[/TIMEX3]"}
+{"expression": "every Friday", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']every Friday[/TIMEX3]"}
+{"expression": "daily", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='1D']daily[/TIMEX3]"}
+{"expression": "every other day", "Normalizacion": "[TIMEX3 type='SET' value='P1D' freq='2D']every other day[/TIMEX3]"}
+{"expression": "weekly", "Normalizacion": "[TIMEX3 type='SET' value='P1W' freq='1W']weekly[/TIMEX3]"}
+{"expression": "monthly", "Normalizacion": "[TIMEX3 type='SET' value='P1M' freq='1M']monthly[/TIMEX3]"}
+{"expression": "July 5, 2023 at 20:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2023-07-05T20:30']July 5, 2023 at 20:30[/TIMEX3]"}
+{"expression": "March 15, 2021 at 09:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2021-03-15T09:00']March 15, 2021 at 09:00[/TIMEX3]"}
+{"expression": "December 31, 2022 at 23:59", "Normalizacion": "[TIMEX3 type='DATETIME' value='2022-12-31T23:59']December 31, 2022 at 23:59[/TIMEX3]"}
+{"expression": "January 1, 2020 at 00:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2020-01-01T00:00']January 1, 2020 at 00:00[/TIMEX3]"}
+{"expression": "August 10, 2025 at 14:45", "Normalizacion": "[TIMEX3 type='DATETIME' value='2025-08-10T14:45']August 10, 2025 at 14:45[/TIMEX3]"}
+{"expression": "May 22, 2024 at 07:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2024-05-22T07:30']May 22, 2024 at 07:30[/TIMEX3]"}
+{"expression": "September 9, 2023 at 16:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2023-09-09T16:00']September 9, 2023 at 16:00[/TIMEX3]"}
+{"expression": "November 11, 2021 at 11:11", "Normalizacion": "[TIMEX3 type='DATETIME' value='2021-11-11T11:11']November 11, 2021 at 11:11[/TIMEX3]"}
+{"expression": "April 1, 2022 at 08:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2022-04-01T08:00']April 1, 2022 at 08:00[/TIMEX3]"}
+{"expression": "October 20, 2020 at 18:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2020-10-20T18:30']October 20, 2020 at 18:30[/TIMEX3]"}
+{"expression": "February 14, 2023 at 13:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2023-02-14T13:00']February 14, 2023 at 13:00[/TIMEX3]"}
+{"expression": "June 30, 2024 at 12:15", "Normalizacion": "[TIMEX3 type='DATETIME' value='2024-06-30T12:15']June 30, 2024 at 12:15[/TIMEX3]"}
+{"expression": "March 3, 2025 at 10:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2025-03-03T10:30']March 3, 2025 at 10:30[/TIMEX3]"}
+{"expression": "December 15, 2021 at 17:45", "Normalizacion": "[TIMEX3 type='DATETIME' value='2021-12-15T17:45']December 15, 2021 at 17:45[/TIMEX3]"}
+{"expression": "July 7, 2022 at 19:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2022-07-07T19:00']July 7, 2022 at 19:00[/TIMEX3]"}
+{"expression": "August 25, 2020 at 06:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2020-08-25T06:30']August 25, 2020 at 06:30[/TIMEX3]"}
+{"expression": "September 17, 2025 at 21:15", "Normalizacion": "[TIMEX3 type='DATETIME' value='2025-09-17T21:15']September 17, 2025 at 21:15[/TIMEX3]"}
+{"expression": "November 30, 2023 at 07:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2023-11-30T07:00']November 30, 2023 at 07:00[/TIMEX3]"}
+{"expression": "April 25, 2022 at 15:30", "Normalizacion": "[TIMEX3 type='DATETIME' value='2022-04-25T15:30']April 25, 2022 at 15:30[/TIMEX3]"}
+{"expression": "October 10, 2024 at 22:00", "Normalizacion": "[TIMEX3 type='DATETIME' value='2024-10-10T22:00']October 10, 2024 at 22:00[/TIMEX3]"}
+{"expression": "from 9:30 AM to 5:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T09:30/T17:30']from 9:30 AM to 5:30 PM[/TIMEX3]"}
+{"expression": "from 8:15 AM to 4:15 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T08:15/T16:15']from 8:15 AM to 4:15 PM[/TIMEX3]"}
+{"expression": "from 11:00 AM to 7:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T11:00/T19:00']from 11:00 AM to 7:00 PM[/TIMEX3]"}
+{"expression": "Between 7:00 AM and 3:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T07:00/T15:00']Between 7:00 AM and 3:00 PM[/TIMEX3]"}
+{"expression": "from 12:00 PM to 8:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T12:00/T20:00']from 12:00 PM to 8:00 PM[/TIMEX3]"}
+{"expression": "from 6:30 AM to 2:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T06:30/T14:30']from 6:30 AM to 2:30 PM[/TIMEX3]"}
+{"expression": "Between 10:15 AM and 2:45 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T10:15/T14:45']Between 10:15 AM and 2:45 PM[/TIMEX3]"}
+{"expression": "from 5:00 AM to 1:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T05:00/T13:00']from 5:00 AM to 1:00 PM[/TIMEX3]"}
+{"expression": "from 3:00 PM to 11:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T15:00/T23:00']from 3:00 PM to 11:00 PM[/TIMEX3]"}
+{"expression": "Between 8:45 AM and 12:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T08:45/T12:30']Between 8:45 AM and 12:30 PM[/TIMEX3]"}
+{"expression": "from 1:00 PM to 5:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T13:00/T17:00']from 1:00 PM to 5:00 PM[/TIMEX3]"}
+{"expression": "from 7:15 AM to 11:15 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T07:15/T11:15']from 7:15 AM to 11:15 AM[/TIMEX3]"}
+{"expression": "Between 2:30 PM and 6:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T14:30/T18:30']Between 2:30 PM and 6:30 PM[/TIMEX3]"}
+{"expression": "from 10:30 AM to 4:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T10:30/T16:30']from 10:30 AM to 4:30 PM[/TIMEX3]"}
+{"expression": "Between 9:00 AM and 1:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T09:00/T13:00']Between 9:00 AM and 1:00 PM[/TIMEX3]"}
+{"expression": "from 2:45 PM to 6:45 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T14:45/T18:45']from 2:45 PM to 6:45 PM[/TIMEX3]"}
+{"expression": "from 11:30 AM to 3:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T11:30/T15:30']from 11:30 AM to 3:30 PM[/TIMEX3]"}
+{"expression": "Between 7:00 PM and 11:00 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T19:00/T23:00']Between 7:00 PM and 11:00 PM[/TIMEX3]"}
+{"expression": "from 12:30 PM to 4:30 PM", "Normalizacion": "[TIMEX3 type='TIME' value='T12:30/T16:30']from 12:30 PM to 4:30 PM[/TIMEX3]"}
+{"expression": "Between 6:15 AM and 10:15 AM", "Normalizacion": "[TIMEX3 type='TIME' value='T06:15/T10:15']Between 6:15 AM and 10:15 AM[/TIMEX3]"}
+{"expression": "in summer", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:summer']in summer[/TIMEX3]"}
+{"expression": "Next winter", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:winter' mod='NEXT']Next winter[/TIMEX3]"}
+{"expression": "this spring", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:spring' mod='THIS']this spring[/TIMEX3]"}
+{"expression": "early autumn", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:fall']early autumn[/TIMEX3]"}
+{"expression": "mid-summer", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:summer']mid-summer[/TIMEX3]"}
+{"expression": "late winter", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:winter']late winter[/TIMEX3]"}
+{"expression": "the summer", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:summer']the summer[/TIMEX3]"}
+{"expression": "Last autumn", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:fall' mod='LAST']Last autumn[/TIMEX3]"}
+{"expression": "this winter", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:winter' mod='THIS']this winter[/TIMEX3]"}
+{"expression": "next spring", "Normalizacion": "[TIMEX3 type='DATE' value='SEASON:spring' mod='NEXT']next spring[/TIMEX3]"}

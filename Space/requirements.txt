@@ -1,0 +1,11 @@
+transformers
+accelerate
+peft
+bitsandbytes
+datasets
+sentencepiece
+scikit-learn
+torch
+pdfplumber
+pandas
+gradio

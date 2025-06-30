@@ -1,0 +1,379 @@
+{"tokens": ["The", "meeting", "is", "scheduled", "for", "4:15", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "train", "arrives", "at", "9:30", "AM", "sharp"], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Dinner", "starts", "at", "7:00", "PM"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "the", "house", "at", "6:45", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["My", "flight", "departs", "at", "11:20", "PM", "tonight"], "labels": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["The", "appointment", "is", "set", "for", "March", "3", ",", "2024"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "July", "10", ",", "1995"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["The", "concert", "is", "on", "December", "5", ",", "2023"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["We", "have", "a", "holiday", "on", "January", "1st"], "labels": [0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Their", "anniversary", "is", "on", "September", "22nd"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "alarm", "goes", "off", "at", "6:00", "AM", "every", "day"], "labels": [0, 0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["The", "gym", "opens", "at", "5:30", "AM", "every", "Monday"], "labels": [0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["We", "go", "jogging", "at", "6:00", "AM", "every", "morning"], "labels": [0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["She", "takes", "her", "medicine", "at", "8:00", "PM", "daily"], "labels": [0, 0, 0, 0, 0, 1, 2, 1]}
+{"tokens": ["The", "meeting", "occurs", "at", "9:00", "AM", "every", "Wednesday"], "labels": [0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["The", "movie", "lasts", "for", "two", "and", "a", "half", "hours"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "flight", "took", "three", "hours", "and", "15", "minutes"], "labels": [0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["We", "waited", "for", "about", "45", "minutes"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "lasted", "two", "days"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["She", "slept", "for", "seven", "and", "a", "half", "hours"], "labels": [0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["She", "exercises", "for", "30", "minutes", "every", "morning"], "labels": [0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["He", "reads", "for", "one", "hour", "every", "night"], "labels": [0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["They", "meditate", "for", "20", "minutes", "each", "morning"], "labels": [0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["We", "go", "running", "for", "an", "hour", "every", "Saturday"], "labels": [0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["He", "practices", "piano", "for", "two", "hours", "every", "weekend"], "labels": [0, 0, 0, 0, 1, 2, 1, 2]}
+{"tokens": ["In", "three", "days", ",", "I", "'ll", "call", "you", "to", "discuss", "the", "details"], "labels": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["He", "promised", "to", "finish", "the", "work", "in", "two", "months"], "labels": [0, 0, 0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "package", "will", "arrive", "in", "about", "a", "week"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["In", "six", "months", ",", "we", "'ll", "launch", "the", "new", "product"], "labels": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["They", "will", "move", "to", "a", "new", "city", "in", "four", "years"], "labels": [0, 0, 0, 0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "bus", "will", "arrive", "in", "about", "20", "minutes"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Dinner", "will", "be", "ready", "in", "half", "an", "hour"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["In", "five", "minutes", ",", "the", "train", "will", "depart"], "labels": [1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "will", "leave", "in", "approximately", "45", "minutes"], "labels": [0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["The", "meeting", "starts", "in", "an", "hour"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "project", "was", "delayed", "for", "two", "weeks", "due", "to", "bad", "weather"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["She", "lived", "in", "France", "for", "three", "years", "before", "moving", "back"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["He", "was", "sick", "for", "five", "days", ",", "so", "he", "missed", "work"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["They", "will", "travel", "for", "two", "months", "before", "settling", "down"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["She", "studied", "for", "three", "hours", "and", "then", "took", "a", "break"], "labels": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "have", "a", "meeting", "every", "Monday", "at", "noon"], "labels": [0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["She", "exercises", "every", "morning", "before", "going", "to", "work"], "labels": [0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["He", "takes", "a", "vacation", "every", "two", "years", ",", "usually", "in", "summer"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["I", "call", "my", "grandparents", "every", "weekend", "to", "check", "on", "them"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["We", "go", "on", "a", "trip", "every", "summer", "to", "a", "different", "place"], "labels": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["This", "Friday", "we", "have", "a", "special", "event"], "labels": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "will", "be", "free", "on", "this", "Friday", "for", "dinner"], "labels": [0, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["Please", "confirm", "if", "this", "Friday", "works", "for", "you"], "labels": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["We", "can", "plan", "our", "trip", "this", "Friday"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["See", "you", "around", "noon"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Around", "noon", "we", "will", "start", "the", "meeting"], "labels": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "plan", "to", "call", "you", "around", "noon", "for", "an", "update"], "labels": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Let's", "have", "lunch", "around", "noon", "at", "the", "cafe"], "labels": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["The", "class", "is", "scheduled", "around", "noon", "every", "day"], "labels": [0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["It", "took", "a", "while", "to", "finish"], "labels": [0, 0, 1, 2, 0, 0]}
+{"tokens": ["Finishing", "the", "task", "took", "a", "while"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["They", "waited", "a", "while", "before", "the", "show", "began"], "labels": [0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["A", "while", "was", "needed", "to", "complete", "the", "project"], "labels": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "meeting", "dragged", "on", "for", "a", "while"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "usually", "go", "hiking", "on", "weekends"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["On", "weekends", ",", "our", "family", "gathers", "for", "dinner"], "labels": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "prefer", "to", "relax", "on", "weekends", "with", "a", "book"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Our", "club", "meets", "on", "weekends", "for", "various", "activities"], "labels": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Sometimes", ",", "on", "weekends", ",", "we", "enjoy", "long", "walks", "in", "nature"], "labels": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Just", "before", "January", "1", ",", "2020", "she", "started", "her", "new", "job"], "labels": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "arrived", "just", "after", "December", "25", ",", "2019", "and", "left", "immediately"], "labels": [0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["The", "meeting", "is", "scheduled", "for", "exactly", "on", "March", "15", ",", "2021"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["Right", "after", "November", "11", ",", "2018", "the", "store", "opened"], "labels": [1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["We", "will", "reconvene", "just", "before", "July", "4", ",", "2022", "if", "needed"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["They", "decided", "to", "celebrate", "exactly", "on", "October", "31", ",", "2020"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["Immediately", "before", "January", "20", ",", "2019", "she", "received", "the", "award"], "labels": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "appointment", "was", "set", "for", "just", "after", "May", "10", ",", "2023", "during", "the", "week"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "postponed", "the", "conference", "until", "exactly", "on", "December", "5", ",", "2021"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["The", "report", "was", "finalized", "nearly", "on", "September", "30", ",", "2020", "before", "the", "meeting"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["Exactly", "at", "midnight", "he", "left", "for", "the", "airport"], "labels": [1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["She", "woke", "up", "just", "after", "dawn", "on", "that", "cold", "morning"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["We", "will", "start", "the", "session", "exactly", "at", "6", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Immediately", "at", "sunrise", "the", "birds", "began", "to", "sing"], "labels": [1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Our", "meeting", "is", "scheduled", "for", "just", "before", "noon", "in", "the", "conference", "room"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["He", "promised", "to", "return", "exactly", "at", "dusk"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Right", "after", "midnight", "the", "party", "began"], "labels": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "usually", "have", "lunch", "around", "1", "PM", "on", "weekdays"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 0]}
+{"tokens": ["I", "plan", "to", "leave", "exactly", "at", "10", "AM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["The", "show", "starts", "precisely", "at", "midnight", "during", "the", "summer"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["Nearly", "three", "hours", "of", "intense", "debate", "followed"], "labels": [1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["The", "seminar", "lasted", "exactly", "two", "and", "a", "half", "hours", "before", "ending"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["The", "workshop", "went", "on", "for", "roughly", "four", "hours"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Approximately", "one", "hour", "of", "discussion", "ensued"], "labels": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["The", "movie", "lasted", "almost", "two", "hours", "before", "the", "credits", "rolled"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["The", "delay", "extended", "for", "nearly", "half", "an", "hour"], "labels": [0, 0, 0, 1, 1, 2, 2, 2]}
+{"tokens": ["Exactly", "ninety", "minutes", "of", "performance", "captivated", "the", "audience"], "labels": [1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "exam", "lasted", "approximately", "one", "and", "a", "half", "hours", "before", "it", "ended"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "finished", "the", "project", "in", "almost", "three", "days"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["The", "conference", "lasted", "precisely", "four", "and", "a", "half", "hours", "before", "closing"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["Almost", "every", "summer", "we", "travel", "abroad"], "labels": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["We", "take", "a", "break", "almost", "every", "weekend", "when", "we", "feel", "tired"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["They", "gather", "for", "dinner", "exactly", "on", "every", "holiday"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Precisely", "every", "Monday", "our", "team", "meets", "to", "discuss", "progress"], "labels": [1, 2, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Our", "club", "organizes", "events", "just", "after", "every", "first", "Friday", "of", "the", "month"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["We", "usually", "have", "a", "picnic", "exactly", "on", "every", "Sunday"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["Almost", "every", "winter", "the", "town", "is", "covered", "in", "snow"], "labels": [1, 2, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Our", "family", "reunites", "nearly", "every", "Christmas", "when", "traditions", "call"], "labels": [0, 0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["The", "seminar", "is", "held", "exactly", "every", "other", "Friday"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["They", "organize", "gatherings", "precisely", "every", "fortnight", "during", "summer"], "labels": [0, 0, 0, 1, 2, 2, 0, 0]}
+{"tokens": ["We", "stayed", "in", "Paris", "from", "June", "5", "to", "June", "12", ",", "2021"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["From", "March", "1", "to", "March", "10", ",", "2020", "our", "vacation", "was", "unforgettable"], "labels": [1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "conference", "lasted", "from", "September", "15", "to", "September", "18", ",", "2019", "in", "downtown", "Berlin"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "booked", "the", "hotel", "from", "December", "20", "to", "December", "27", ",", "2022", "for", "the", "conference"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["I", "traveled", "from", "May", "3", "to", "May", "8", ",", "2018", "with", "my", "family"], "labels": [0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["He", "was", "in", "London", "from", "July", "10", "to", "July", "17", ",", "2021", "during", "the", "summer"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "trip", "lasted", "from", "April", "2", "to", "April", "5", ",", "2022"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["She", "attended", "a", "workshop", "from", "August", "12", "to", "August", "19", ",", "2017", "in", "New", "York"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "rescheduled", "the", "event", "from", "November", "3", "to", "November", "7", ",", "2019", "due", "to", "weather"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["Starting", "from", "February", "14", "to", "February", "20", ",", "2020", "we", "explored", "the", "city"], "labels": [0, 1, 2, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["The", "event", "runs", "daily", "from", "9:00", "AM", "to", "5:00", "PM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["From", "8:00", "AM", "to", "4:00", "PM", "the", "store", "is", "open"], "labels": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "meeting", "is", "scheduled", "from", "10:00", "AM", "to", "12:00", "PM", "in", "the", "boardroom"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["They", "broadcast", "from", "7:30", "AM", "to", "9:30", "AM", "on", "weekdays"], "labels": [0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["The", "workshop", "will", "be", "held", "from", "2:00", "PM", "to", "6:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["Between", "11:00", "AM", "and", "3:00", "PM", "the", "seminar", "takes", "place"], "labels": [1, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "shift", "runs", "from", "6:00", "AM", "to", "2:00", "PM", "at", "the", "factory"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["He", "is", "available", "from", "4:00", "PM", "to", "8:00", "PM", "for", "appointments"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["From", "midnight", "to", "6:00", "AM", "the", "system", "is", "under", "maintenance"], "labels": [1, 2, 2, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["We", "offer", "service", "from", "1:00", "PM", "to", "5:00", "PM", "on", "Saturdays"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0]}
+{"tokens": ["The", "vacation", "lasted", "two", "weeks", ",", "from", "July", "1", "to", "July", "15"], "labels": [0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Our", "trip", "lasted", "one", "week", ",", "from", "August", "5", "to", "August", "12"], "labels": [0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "festival", "ran", "for", "three", "days", ",", "from", "September", "10", "to", "September", "12"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Her", "stay", "was", "four", "days", "long", ",", "from", "October", "2", "to", "October", "5"], "labels": [0, 0, 0, 1, 2, 0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "conference", "spanned", "five", "days", ",", "from", "November", "15", "to", "November", "19"], "labels": [0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Their", "retreat", "lasted", "for", "one", "week", ",", "from", "December", "1", "to", "December", "8"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "cruise", "was", "a", "ten-day", "journey", ",", "from", "January", "10", "to", "January", "20"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["My", "sabbatical", "lasted", "a", "month", ",", "from", "February", "1", "to", "February", "28"], "labels": [0, 0, 0, 0, 1, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "camp", "was", "held", "for", "three", "weeks", ",", "from", "March", "5", "to", "March", "26"], "labels": [0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Our", "holiday", "lasted", "for", "two", "weeks", ",", "from", "April", "10", "to", "April", "24"], "labels": [0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Classes", "are", "held", "every", "Monday", "and", "Wednesday", "at", "8:00", "AM"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["Every", "Tuesday", "and", "Thursday", "at", "7:00", "AM", "the", "gym", "sessions", "occur"], "labels": [1, 2, 2, 2, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Our", "meetings", "are", "scheduled", "every", "Friday", "at", "3:00", "PM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Yoga", "classes", "take", "place", "every", "Saturday", "at", "9:00", "AM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Workshops", "are", "organized", "every", "Wednesday", "and", "Friday", "at", "6:00", "PM"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["The", "seminar", "is", "offered", "every", "Monday", "at", "10:00", "AM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["Training", "sessions", "happen", "every", "Thursday", "at", "5:00", "PM"], "labels": [0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "club", "meets", "every", "Saturday", "and", "Sunday", "at", "4:00", "PM"], "labels": [0, 0, 0, 1, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["Lectures", "are", "conducted", "every", "Tuesday", "at", "11:00", "AM"], "labels": [0, 0, 0, 1, 2, 2, 2, 2]}
+{"tokens": ["The", "study", "group", "gathers", "every", "Friday", "and", "Saturday", "at", "2:00", "PM"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["Recently", "the", "market", "crashed"], "labels": [1, 0, 0, 0]}
+{"tokens": ["The", "meeting", "will", "start", "soon"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["She", "had", "already", "finished", "her", "work"], "labels": [0, 0, 1, 0, 0, 0]}
+{"tokens": ["Now", "is", "the", "best", "time", "to", "invest"], "labels": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["They", "are", "currently", "on", "vacation"], "labels": [0, 0, 1, 0, 0]}
+{"tokens": ["Later", "we", "will", "review", "the", "results"], "labels": [1, 0, 0, 0, 0, 0]}
+{"tokens": ["Eventually", "the", "truth", "was", "revealed"], "labels": [1, 0, 0, 0, 0]}
+{"tokens": ["They", "reacted", "immediately", "to", "the", "news"], "labels": [0, 0, 1, 0, 0, 0]}
+{"tokens": ["Soon", "enough", "the", "repairs", "were", "completed"], "labels": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["At", "last", "the", "project", "was", "finished"], "labels": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["In", "the", "fall", "the", "trees", "change", "color"], "labels": [1, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["During", "winter", "roads", "can", "be", "dangerous"], "labels": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["The", "blossoms", "bloom", "in", "the", "spring"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["Over", "the", "summer", "we", "visited", "many", "beaches"], "labels": [1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["The", "festival", "takes", "place", "in", "autumn"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Last", "winter", "was", "exceptionally", "cold"], "labels": [1, 2, 0, 0, 0]}
+{"tokens": ["My", "favorite", "season", "is", "the", "spring"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["I", "love", "walking", "in", "fall"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["This", "summer", "is", "expected", "to", "be", "vibrant"], "labels": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["I'll", "see", "you", "tomorrow"], "labels": [0, 0, 0, 1]}
+{"tokens": ["She", "left", "yesterday"], "labels": [0, 0, 1]}
+{"tokens": ["The", "day", "after", "tomorrow", "we", "will", "start"], "labels": [1, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["Later", "today", "I'll", "finish", "the", "work"], "labels": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["Tomorrow", "the", "meeting", "is", "scheduled"], "labels": [1, 0, 0, 0, 0]}
+{"tokens": ["He", "arrived", "the", "day", "before", "yesterday"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "will", "meet", "later", "today", "in", "the", "afternoon"], "labels": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["See", "you", "tomorrow", "at", "the", "office"], "labels": [0, 0, 1, 0, 0, 0]}
+{"tokens": ["I'll", "finish", "it", "by", "tomorrow"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["Maybe", "the", "day", "after", "tomorrow", "will", "be", "better"], "labels": [0, 1, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["In", "a", "jiffy", "the", "package", "arrived"], "labels": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["He", "solved", "the", "problem", "in", "no", "time"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Before", "you", "know", "it", "the", "event", "is", "over"], "labels": [1, 2, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["They", "finished", "the", "work", "in", "the", "blink", "of", "an", "eye"], "labels": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2]}
+{"tokens": ["He", "arrived", "in", "a", "flash"], "labels": [0, 0, 1, 2, 2]}
+{"tokens": ["The", "decision", "was", "made", "in", "a", "heartbeat"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["She", "finished", "her", "meal", "in", "no", "time", "flat"], "labels": [0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["You'll", "be", "ready", "in", "a", "snap"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["I", "completed", "it", "before", "you", "even", "blinked"], "labels": [0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["In", "a", "heartbeat", "everything", "changed"], "labels": [1, 2, 2, 0, 0]}
+{"tokens": ["I", "love", "to", "travel", "in", "summer"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "flowers", "bloom", "in", "spring"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["Winter", "is", "the", "coldest", "season"], "labels": [1, 0, 0, 0, 0]}
+{"tokens": ["We", "go", "skiing", "during", "the", "winter", "months"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Autumn", "is", "known", "for", "its", "colorful", "leaves"], "labels": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Summer", "vacations", "are", "the", "best"], "labels": [1, 0, 0, 0, 0]}
+{"tokens": ["The", "harvest", "happens", "in", "fall"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["The", "snow", "melts", "in", "late", "spring"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Halloween", "is", "on", "October", "31st"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["Thanksgiving", "is", "in", "November"], "labels": [0, 0, 0, 1]}
+{"tokens": ["Ramadan", "lasts", "for", "a", "month"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["New", "Year", "'s", "Eve", "is", "on", "December", "31st"], "labels": [0, 0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Valentine", "'s", "Day", "is", "on", "February", "14th"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Independence", "Day", "is", "on", "July", "4th"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Hanukkah", "is", "celebrated", "in", "December"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["The", "sun", "rises", "at", "dawn"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["Birds", "sing", "at", "sunrise"], "labels": [0, 0, 0, 1]}
+{"tokens": ["The", "stars", "are", "visible", "at", "night"], "labels": [0, 0, 0, 0, 0, 1]}
+{"tokens": ["The", "tide", "is", "high", "at", "noon"], "labels": [0, 0, 0, 0, 0, 1]}
+{"tokens": ["The", "moon", "is", "full", "tonight"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["In", "a", "decade", ",", "technology", "will", "be", "unrecognizable"], "labels": [0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["By", "2050", ",", "cities", "will", "be", "fully", "sustainable"], "labels": [0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["The", "flight", "departs", "at", "8:00", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "train", "arrives", "in", "two", "hours"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "bus", "leaves", "every", "30", "minutes"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "trip", "will", "last", "three", "days"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "flight", "delay", "lasted", "two", "hours"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "journey", "takes", "about", "four", "hours"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "shuttle", "runs", "every", "hour"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["The", "plane", "lands", "at", "midnight"], "labels": [0, 0, 0, 0, 1]}
+{"tokens": ["He", "has", "physical", "therapy", "sessions", "twice", "a", "week"], "labels": [0, 0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["I", "volunteer", "at", "the", "shelter", "two", "days", "a", "week"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 2]}
+{"tokens": ["We", "have", "family", "dinner", "twice", "weekly"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["She", "tutors", "math", "students", "twice", "per", "week"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "deadline", "is", "03/15/2025", "for", "submission"], "labels": [0, 0, 0, 1, 0, 0]}
+{"tokens": ["Event", "on", "15th", "October", "2024"], "labels": [0, 0, 1, 2, 2]}
+{"tokens": ["Meeting", "at", "14:30", "sharp"], "labels": [0, 0, 1, 0]}
+{"tokens": ["Let's", "meet", "around", "2", "PM"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["Submit", "the", "report", "in", "three", "days"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "met", "two", "weeks", "ago"], "labels": [0, 0, 1, 2, 0]}
+{"tokens": ["Christmas", "is", "on", "December", "25th"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["Sales", "start", "next", "Monday"], "labels": [0, 0, 1, 2]}
+{"tokens": ["The", "movie", "runs", "for", "2h", "30min"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Pause", "for", "10", "seconds"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Submit", "by", "January", "3rd", "2025"], "labels": [0, 0, 1, 2, 2]}
+{"tokens": ["Event", "on", "the", "15th", "of", "March"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["From", "Dec", "10", "-", "Dec", "20"], "labels": [1, 2, 2, 2, 2, 2]}
+{"tokens": ["Meeting", "at", "14", "h"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Open", "until", "17", "hrs"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Arrive", "by", "8", "PM"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Starts", "at", "seven", "o'clock"], "labels": [0, 0, 1, 2]}
+{"tokens": ["See", "you", "in", "a", "bit"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["She", "left", "just", "now"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Due", "next", "Thursday"], "labels": [0, 1, 2]}
+{"tokens": ["Ski", "season", "starts", "this", "winter"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["Delay", "of", "30", "seconds"], "labels": [0, 0, 1, 2]}
+{"tokens": ["Paused", "for", "2", "hours", "15", "min"], "labels": [0, 0, 1, 2, 2, 2]}
+{"tokens": ["Wait", "1.5", "hours"], "labels": [0, 1, 2]}
+{"tokens": ["May", "2025", "is", "busy"], "labels": [1, 2, 0, 0]}
+{"tokens": ["Today", "'s", "meeting", "is", "canceled"], "labels": [1, 0, 0, 0, 0]}
+{"tokens": ["Morning", "shift", "starts", "at", "6", "AM"], "labels": [1, 2, 0, 0, 1, 2]}
+{"tokens": ["Every", "other", "Tuesday"], "labels": [1, 2, 2]}
+{"tokens": ["Closed", "for", "Easter"], "labels": [0, 0, 1]}
+{"tokens": ["Report", "due", "by", "2025-12-31"], "labels": [0, 0, 0, 1]}
+{"tokens": ["Submit", "by", "October", "15th", "2024"], "labels": [0, 0, 1, 2, 2]}
+{"tokens": ["Briefing", "at", "14:30", "hrs"], "labels": [0, 0, 1, 2]}
+{"tokens": ["May", "2025", "deadline"], "labels": [1, 2, 0]}
+{"tokens": ["Payment", "due", "next", "week"], "labels": [0, 0, 1, 2]}
+{"tokens": ["I", "usually", "wake", "up", "at", "10:15", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Your", "appointment", "is", "at", "12:15", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "3:30", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "4:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["I", "usually", "wake", "up", "at", "10:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "8:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "10:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "4:15", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "10:45", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "10:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "11:45", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Your", "appointment", "is", "at", "4:45", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Your", "appointment", "is", "at", "7:00", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "4:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "12:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "7:15", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "5:15", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "7:00", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "2:15", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "7:45", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "4:15", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["I", "usually", "wake", "up", "at", "2:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "2:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "7:00", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Your", "appointment", "is", "at", "9:30", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "6:45", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "3:30", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["I", "usually", "wake", "up", "at", "5:30", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Your", "appointment", "is", "at", "1:15", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "5:30", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "1:45", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "left", "home", "at", "3:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "meeting", "is", "scheduled", "at", "12:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "5:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "will", "be", "served", "at", "2:30", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["They", "are", "arriving", "on", "February", "25,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "September", "19,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "July", "28,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "event", "is", "on", "February", "6,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "event", "is", "on", "September", "2,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "May", "11,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "April", "6,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "June", "8,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "April", "8,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "June", "24,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "October", "26,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "May", "15,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "May", "12,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "event", "is", "on", "February", "1,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "May", "11,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "January", "12,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "March", "28,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "May", "2,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "June", "23,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "September", "9,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "August", "13,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "November", "7,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "February", "25,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "February", "16,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "November", "27,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "April", "11,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "January", "12,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "December", "3,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "December", "10,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Her", "graduation", "is", "on", "September", "8,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "April", "3,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["My", "birthday", "is", "on", "November", "2,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "event", "is", "on", "August", "25,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Our", "anniversary", "is", "on", "May", "23,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["They", "are", "arriving", "on", "February", "6,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "interview", "is", "at", "8:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "8:15", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "5:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "class", "begins", "at", "5:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "festival", "starts", "on", "February", "6,", "2026"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "class", "begins", "at", "9:15", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "travel", "on", "December", "20,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "travel", "on", "January", "6,", "2026"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "interview", "is", "at", "6:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "2:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "travel", "on", "September", "17,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "interview", "is", "at", "8:45", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "travel", "on", "August", "28,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "travel", "on", "March", "7,", "2026"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "travel", "on", "September", "4,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "interview", "is", "at", "11:45", "AM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "8:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "9:45", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "class", "begins", "at", "12:15", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "travel", "on", "December", "25,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "1:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "festival", "starts", "on", "April", "26,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "festival", "starts", "on", "September", "28,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "travel", "on", "May", "27,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "interview", "is", "at", "5:00", "PM"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "festival", "starts", "on", "April", "18,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "festival", "starts", "on", "October", "5,", "2025"], "labels": [0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["He", "goes", "to", "gym", "at", "10:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["We", "travel", "on", "June", "9,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["We", "travel", "on", "July", "5,", "2025"], "labels": [0, 0, 0, 1, 2, 2]}
+{"tokens": ["The", "train", "leaves", "at", "one", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Please", "arrive", "by", "two", "o'clock", "sharp"], "labels": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Lunch", "starts", "around", "three", "o'clock"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["We", "should", "finish", "before", "four", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "is", "served", "at", "six", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["They", "arrived", "exactly", "at", "eight", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "movie", "starts", "at", "nine", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Let's", "meet", "at", "ten", "o'clock", "tomorrow"], "labels": [0, 0, 0, 1, 2, 1]}
+{"tokens": ["He", "goes", "to", "bed", "around", "eleven", "o'clock"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "train", "leaves", "at", "one", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Please", "arrive", "by", "two", "o'clock", "sharp"], "labels": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["Lunch", "starts", "around", "three", "o'clock"], "labels": [0, 0, 0, 1, 2]}
+{"tokens": ["We", "should", "finish", "before", "four", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Dinner", "is", "served", "at", "six", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["They", "arrived", "exactly", "at", "eight", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "movie", "starts", "at", "nine", "o'clock"], "labels": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Let's", "meet", "at", "ten", "o'clock", "tomorrow"], "labels": [0, 0, 0, 1, 2, 1]}
+{"tokens": ["He", "goes", "to", "bed", "around", "eleven", "o'clock"], "labels": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["The", "workshop", "begins", "on", "5", "March", "2026", "at", "08:45", "AM"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "seminar", "kicks", "off", "on", "22", "September", "2025", "at", "2:15", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["Our", "training", "session", "starts", "on", "1", "June", "2024", "at", "09:00", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "lecture", "is", "scheduled", "on", "18", "October", "2025", "at", "11:30", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "keynote", "begins", "on", "30", "November", "2025", "at", "04:00", "PM"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "panel", "discussion", "opens", "on", "7", "February", "2026", "at", "10:45", "AM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "opening", "ceremony", "starts", "on", "12", "January", "2025", "at", "06:30", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["Our", "annual", "meeting", "begins", "on", "9", "April", "2026", "at", "03:00", "PM"], "labels": [0, 0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "briefing", "starts", "on", "27", "May", "2025", "at", "07:15", "AM"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
+{"tokens": ["The", "exam", "commences", "on", "14", "August", "2025", "at", "01:45", "PM"], "labels": [0, 0, 0, 0, 1, 2, 2, 0, 1, 2]}
